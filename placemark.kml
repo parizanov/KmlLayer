@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Sofia</name>
+    <description>Location of Sofia City</description>
+    <Point>
+      <coordinates>42.7025905,23.3188204</coordinates>
+    </Point>
+  </Placemark>
+</kml>
